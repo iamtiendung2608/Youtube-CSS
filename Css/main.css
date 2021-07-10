@@ -1,0 +1,21 @@
+h2:hover{
+    color:steelblue;
+}
+.title{
+    color:greenyellow;
+}
+#Google-Link:link{
+    color:blue;
+}
+#Google-Link:visited{
+    color:red;
+}
+ol > li{
+    color:yellow;
+}
+ol li{
+    color:aqua;
+}
+h2 ~ a{
+    color: aqua;
+}
